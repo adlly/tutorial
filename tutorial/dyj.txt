@@ -1,0 +1,67 @@
+{"brand":"荣耀","model":"荣耀畅玩6X"}
+{"brand":"荣耀","model":"荣耀8"}
+{"brand":"荣耀","model":"荣耀NOTE8"}
+{"brand":"荣耀","model":"荣耀V8"}
+{"brand":"荣耀","model":"荣耀畅玩5A"}
+{"brand":"荣耀","model":"荣耀畅玩5"}
+{"brand":"小米","model":"红米Note4"}
+{"brand":"小米","model":"红米3S"}
+{"brand":"小米","model":"小米MAX"}
+{"brand":"小米","model":"小米5"}
+{"brand":"小米","model":"红米4A"}
+{"brand":"小米","model":"小米5S"}
+{"brand":"小米","model":"红米Pro"}
+{"brand":"小米","model":"小米5S PLUS"}
+{"brand":"小米","model":"红米4"}
+{"brand":"苹果","model":"iPhone 7 Plus"}
+{"brand":"苹果","model":"iPhone 7"}
+{"brand":"苹果","model":"iPhone 6S"}
+{"brand":"苹果","model":"iPhone 6 Plus"}
+{"brand":"华为","model":"华为Mate9"}
+{"brand":"华为","model":"华为P9"}
+{"brand":"华为","model":"华为Mate8"}
+{"brand":"华为","model":"华为畅享5S"}
+{"brand":"华为","model":"华为G9青春版"}
+{"brand":"华为","model":"华为P9 Plus"}
+{"brand":"华为","model":"华为NOVA"}
+{"brand":"华为","model":"华为畅享6"}
+{"brand":"华为","model":"华为G7 Plus"}
+{"brand":"魅族","model":"魅蓝Note5"}
+{"brand":"魅族","model":"魅蓝3S"}
+{"brand":"魅族","model":"魅蓝Note3"}
+{"brand":"魅族","model":"魅蓝5"}
+{"brand":"魅族","model":"魅蓝metal"}
+{"brand":"魅族","model":"魅蓝3"}
+{"brand":"魅族","model":"魅蓝E"}
+{"brand":"魅族","model":"MX 5E"}
+{"brand":"魅族","model":"MX PRO5"}
+{"brand":"魅族","model":"MX6"}
+{"brand":"乐视","model":"乐2"}
+{"brand":"乐视","model":"乐2 Pro"}
+{"brand":"乐视","model":"乐Max2"}
+{"brand":"乐视","model":"乐S3"}
+{"brand":"乐视","model":"乐Pro 3"}
+{"brand":"三星","model":"三星Galaxy S7 edge"}
+{"brand":"三星","model":"三星Galaxy ON5"}
+{"brand":"三星","model":"三星Galaxy C9 Pro"}
+{"brand":"三星","model":"三星Galaxy C7"}
+{"brand":"三星","model":"三星Galaxy A8"}
+{"brand":"三星","model":"三星Galaxy S7"}
+{"brand":"OPPO","model":"OPPO R9S"}
+{"brand":"OPPO","model":"OPPO R9"}
+{"brand":"OPPO","model":"OPPO A57"}
+{"brand":"OPPO","model":"OPPO R9S Plus"}
+{"brand":"OPPO","model":"OPPO A37"}
+{"brand":"OPPO","model":"OPPO A59S"}
+{"brand":"vivo","model":"vivo X9"}
+{"brand":"vivo","model":"vivo X7"}
+{"brand":"vivo","model":"vivo Y55"}
+{"brand":"vivo","model":"vivo Y67"}
+{"brand":"vivo","model":"vivo X7Plus"}
+{"brand":"vivo","model":"vivo XPLAY6"}
+{"brand":"360","model":"360 N4S"}
+{"brand":"360","model":"360 f4"}
+{"brand":"360","model":"360 N4A"}
+{"brand":"360","model":"360 N4"}
+{"brand":"360","model":"360 Q5"}
+{"brand":"360","model":"360 Q5 Plus"}
